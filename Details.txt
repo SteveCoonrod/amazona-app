@@ -1,0 +1,28 @@
+Mock Amazon style Ecommerce website
+
+Features Implemented:
+	1. Product List in home screen
+	2. Product Details using details pages
+	3. Product categories in a sidebar
+	4. Product review and rating system
+	5. Product search system
+	6. Cart purchase system
+	7. Checkout processing linking paypal and other payment methods
+	8. Order review and history functionality
+	9. User and user profile functionality
+	10. Admin Dashboard for product and user management, as well as 
+	11. Sales Statistics and user statistics charts and graphs
+	12. Google maps API for displaying locations
+	13. Socket.io on front and back end for Chat functionality
+	14. 
+	15. JSON web token authentication
+	16. bcrypt.js password encryption
+
+Technologies Used:
+	1. HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
+	2. React(Frontend, CreateReact App): Components, Props, Events, Hooks, Router, Axios
+	3. Redux(Manage entire React Application): Store, Reducers, Actions
+	4. Node & Express(Scalable backend): Web API, Body Parser, File Upload, JWT
+	5. MongoDB(Object modeling/mapping): Mongoose, Aggregation
+	6. Development: ESLint, Babel, Git, Github, 
+	7. Deployment: Heroku
